@@ -1,0 +1,27 @@
+A mock snowboard Shopify Store based on the Boundless theme.
+I added a few extra features to the theme such as:
+- instagram feed via insta-feed app
+- animated logo intro
+- icon nav bar
+- redid the product layout page
+
+TODO:
+
+DONE:
+- change color on top nav (currently clear)
+- build culture (about) page
+- remove search bar in top nav
+- disable hamburger menu btn
+- put in title header for email sub
+- make patch on home page smaller
+- change top nav to look like original
+- use smaller imgs for products page
+- fill out product price and description
+- change product nav bar to look like main page
+- instagram gallery section (will have to mock as the shopify app needs profile key)
+- make instagram gallery responsive
+- animate logo on main page (scale large to regular)
+- fill out footer with info
+- add to cart button broken
+- change product layout
+- fix mobile view (elements getting cut off @ < 320px wide)
